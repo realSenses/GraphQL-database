@@ -26,7 +26,7 @@ You can now navigate to `localhost:3000/customers` to view all customers that ha
 }
 ```
     which returns
-                    ```
+```
                     {
                     "data": {
                         "customer": {
@@ -36,7 +36,7 @@ You can now navigate to `localhost:3000/customers` to view all customers that ha
                         }
                       }
                     }
-                    ```
+```
 ### Or request all customers for specified fields: 
 ```
 {

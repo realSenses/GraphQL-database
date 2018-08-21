@@ -50,7 +50,7 @@ You can now navigate to `localhost:3000/customers` to view all customers that ha
 ##Mutations
 
 ### Add a new customer.
-    ```
+```
 mutation{
   addCustomer(name:"John Doe", email:"johnD@hello.com", age:25){
     id,
@@ -59,7 +59,7 @@ mutation{
     age
   }
 }
-    ```
+```
 
 ### Edit a customer.
 ```

@@ -29,6 +29,12 @@
       "email": "alice@lookingglass.co.jp",
       "age": 26,
       "id": "UwMYoq_"
+    },
+    {
+      "name": "Pierre",
+      "email": "p@i.com",
+      "age": 25,
+      "id": "YIzi3bt"
     }
   ]
 }

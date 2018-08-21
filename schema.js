@@ -10,10 +10,10 @@ const {
 
 //Hardcoded data
 /*const customers = [
-    {id:'1', name:'Andrew Carr', email:'realSenses0@gmail.com', age:29},
+    {id:'1', name:'Andrew Carr', email:'real@gmail.com', age:29},
     {id:'2', name:'Will Hayes', email:'will@email.com', age:27},
     {id:'3', name:'Zac Collins', email:'zac0@china.com', age:30},
-    {id:'4', name:'Zac Pena', email:'zacP0@high.com', age:26},
+    {id:'4', name:'Zac Pena', email:'zacP@high.com', age:26},
 
 ]*/
 

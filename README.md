@@ -1,5 +1,5 @@
 # GraphQL-database
- This is an example graphQL database, running a JSON server API, and a graphQL server with a simple browser interface. Creating it has helped me understand GraphQL a little better while also satisfying my curioisity to create a functional customer database for an online store.
+ This is an example graphQL database, running a JSON server API, and a graphQL server with a simple browser interface. Creating it has helped me understand GraphQL a little better while also satisfying my curiousity to create a functional customer database for an online store.
 
 ## To Run
 Open two terminal screens and input the following commands, one in each terminal.

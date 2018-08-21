@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Andrew Carr",
+      "email": "real@email.com",
+      "age": 29
+    },
+    {
+      "id": "2",
+      "name": "Will Hayes",
+      "email": "will@email.com",
+      "age": 27
+    },
+    {
+      "id": "3",
+      "name": "Zac Collins",
+      "email": "zac0@china.com",
+      "age": 30
+    },
+    {
+      "id": "4",
+      "name": "Zac Pena",
+      "email": "zacP@high.com",
+      "age": 26
+    },
+    {
+      "name": "Alice Devault",
+      "email": "alice@lookingglass.co.jp",
+      "age": 26,
+      "id": "UwMYoq_"
+    }
+  ]
+}
